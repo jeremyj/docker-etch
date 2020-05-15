@@ -1,2 +1,2 @@
 # docker-etch
-etch base image
+Debian 4.0 Etch docker base image
